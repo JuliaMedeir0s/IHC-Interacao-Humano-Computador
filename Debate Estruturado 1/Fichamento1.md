@@ -8,7 +8,7 @@ O artigo apresenta uma revisão sistemática da literatura sobre personalizaçã
 
 ## 2. Fichamento Bibliográfico
 
-- **Cognitive abilities**: Cognitive abilities: São as capacidades mentais que usamos no dia a dia para aprender, tomar decisões, resolver problemas e focar nossa atenção. No artigo, elas são consideradas fundamentais para que um sistema digital consiga distribuir tarefas de forma mais eficiente, avaliando o que cada pessoa consegue fazer com mais facilidade.(página 630)
+- **Cognitive abilities**: São as capacidades mentais que usamos no dia a dia para aprender, tomar decisões, resolver problemas e focar nossa atenção. No artigo, elas são consideradas fundamentais para que um sistema digital consiga distribuir tarefas de forma mais eficiente, avaliando o que cada pessoa consegue fazer com mais facilidade.(página 630)
 
 - **Cognitive styles**: Representam o jeito único que cada pessoa tem de entender e lidar com informações — alguns preferem imagens, outros preferem texto, por exemplo. O artigo mostra que conhecer esse estilo pode ajudar a apresentar tarefas de forma mais adequada, melhorando o desempenho. (página 633)
 
